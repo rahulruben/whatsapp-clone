@@ -8,8 +8,8 @@ Used Google Authentication API from firebase to setup a login for WhatsApp
 
 ## Technology Stack
 **UI Layer**: [React](https://reactjs.org/)<br />
-**State Management**: React's Context API
-**Database**: Firestore
+**State Management**: React's Context API<br />
+**Database**: Firestore<br />
 **Authentication**: Google Authentication
 
 ## Installation

@@ -4,7 +4,7 @@ WhatsApp clone a whatapp representation in Reactjs using the Context API for sta
 Firestore is used to store all the message as per the room ids<br />
 Used Google Authentication API from firebase to setup a login for WhatsApp
 
-[Dashboard](https://covid-19-tracker-28fb2.web.app/)
+[Dashboard](https://whatsapp-clone-1f217.web.app/)
 
 ## Technology Stack
 **UI Layer**: [React](https://reactjs.org/)<br />
